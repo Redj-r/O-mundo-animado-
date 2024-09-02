@@ -1,0 +1,112 @@
+body {
+    color: #99002e;
+    margin: 50px;
+    margin-left: 50px;
+    font-family: "Dancing Script", cursive;
+    background-image: url(https://i.pinimg.com/originals/90/53/27/9053274ead516677f484f50049f13143.jpg);
+    background-size: 200%;
+    background-position: center;
+
+}
+
+header {
+    background-color: #ff93df96;
+    border-bottom: 2px rgb(128, 0, 128);
+    margin: 20px;
+    font-size: 50px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-style: italic;
+}
+
+.chamada {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.categoria-video {
+    background-color: #ff93df96;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.categoria-video2 {
+    background-color: #ff93df96;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Merienda", system-ui;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: "Merienda", system-ui;
+}
+
+img {
+    height: 200px
+}
+
+.categoria-video {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-video2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.chamada2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.chamada3 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.categoria-video img {
+    opacity: 0.8;
+    height: 200px;
+}
+
+.categoria-video img:hover {
+    opacity: 1.0;
+    border:2px solid #000000;
+}
+
+.categoria-video2 img {
+    opacity: 0.8;
+    height: 200px;
+}
+
+.categoria-video2 img:hover {
+    opacity: 1.0;
+    border:2px solid #000000;
+}
